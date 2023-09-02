@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/BusinesLayer/bin/Debug/net7.0/BusinesLayer.deps.json
+/Users/beytullah/Projects/BusinesLayer/bin/Debug/net7.0/BusinesLayer.dll
+/Users/beytullah/Projects/BusinesLayer/bin/Debug/net7.0/BusinesLayer.pdb
+/Users/beytullah/Projects/BusinesLayer/bin/Debug/net7.0/DataLayer.dll
+/Users/beytullah/Projects/BusinesLayer/bin/Debug/net7.0/DataLayer.pdb
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.AssemblyInfo.cs
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.csproj.CopyComplete
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.dll
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/refint/BusinesLayer.dll
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/BusinesLayer.pdb
+/Users/beytullah/Projects/BusinesLayer/obj/Debug/net7.0/ref/BusinesLayer.dll

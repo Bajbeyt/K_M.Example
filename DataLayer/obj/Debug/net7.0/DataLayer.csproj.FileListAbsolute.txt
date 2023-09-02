@@ -1,0 +1,12 @@
+/Users/beytullah/Projects/DataLayer/bin/Debug/net7.0/DataLayer.deps.json
+/Users/beytullah/Projects/DataLayer/bin/Debug/net7.0/DataLayer.dll
+/Users/beytullah/Projects/DataLayer/bin/Debug/net7.0/DataLayer.pdb
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/DataLayer.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/DataLayer.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/DataLayer.AssemblyInfo.cs
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/DataLayer.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/DataLayer.dll
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/refint/DataLayer.dll
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/DataLayer.pdb
+/Users/beytullah/Projects/DataLayer/obj/Debug/net7.0/ref/DataLayer.dll
